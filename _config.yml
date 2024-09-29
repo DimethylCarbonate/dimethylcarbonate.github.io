@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 # weibo_username:
-zhihu_username:  DimeCarb
+zhihu_username:  dimecarb
 github_username: DimethylCarbonate
 # twitter_username: huxpro
 # acebook_username:  huxpro
