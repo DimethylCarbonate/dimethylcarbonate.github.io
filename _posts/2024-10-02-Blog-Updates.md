@@ -37,7 +37,3 @@ tags:
 #### 20240930
 
 1. 更新文章：[C++笔记：指针](https://dimethylcarbonate.github.io/2024/09/28/CppNotes-Pointer/)。
-
-#### 20241001
-
-1. 更新文章：[Hux Blog用户手册](https://dimethylcarbonate.github.io/2024/09/28/Hux-Blog-Manual/)

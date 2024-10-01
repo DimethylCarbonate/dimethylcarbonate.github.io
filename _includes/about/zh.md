@@ -2,4 +2,4 @@
 
 现上海交通大学工科在读。
 
-电邮：dimethylcarbonate@hotmail.com<dimethylcarbonate@hotmail.com>。
+电邮：<dimethylcarbonate@hotmail.com>。
