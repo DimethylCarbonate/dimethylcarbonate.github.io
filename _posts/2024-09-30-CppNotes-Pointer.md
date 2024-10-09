@@ -237,4 +237,8 @@ int &j=i;
 const int &k=i;
 ```
 
+引用类型的变量也可以作为范围`for`循环的循环变量：
 
+```C++
+for(int &k : a) cin>>k;
+```
